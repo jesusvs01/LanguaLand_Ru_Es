@@ -44,7 +44,3 @@ button{
     padding: 20px;
     
 }
-
-button:hover{
-    transform: scale(1.1);
-}
