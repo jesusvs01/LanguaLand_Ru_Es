@@ -21,7 +21,15 @@ words = {
     "Frasco/Lata": "Банка",
     Previsor: "Предусмотрительный",
     Pilar: "Столп",
-    Buscar: "Искать"
+    Buscar: "Искать",
+    Encontrar: "найти",
+    sentir: "чувствовать",
+    "Tratar, Intentar": "попытаться",
+    Finalmente: "наконец",
+    Paso: "шаг",
+    "Escapar, Huir" = "убежать",
+    Enojado: "зол",
+    Importante: "важного"
 }
 
 data = Object.entries(words)
