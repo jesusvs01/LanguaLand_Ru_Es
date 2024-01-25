@@ -27,7 +27,7 @@ words = {
     "Tratar, Intentar": "попытаться",
     Finalmente: "наконец",
     Paso: "шаг",
-    "Escapar, Huir" = "убежать",
+    "Escapar, Huir": "убежать",
     Enojado: "зол",
     Importante: "важного"
 }
