@@ -12,7 +12,16 @@ words = {
     "Arrastrar/gatear": "Ползать",
     Suelo: "Пол",
     Campo: "Поле",
-    "Alcanzar, Llegar": "Добираться"
+    "Alcanzar, Llegar": "Добираться",
+    Alto: "Высокий",
+    Bastón: "Трость",
+    "Tacones Altos": "Туфли на каблуке",
+    Cauteloso: "Осторожный",
+    "Lentes/Anteojos": "Очки",
+    "Frasco/Lata": "Банка",
+    Previsor: "Предусмотрительный",
+    Pilar: "Столп",
+    Buscar: "Искать"
 }
 
 data = Object.entries(words)
