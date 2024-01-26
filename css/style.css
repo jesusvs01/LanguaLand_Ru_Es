@@ -11,7 +11,8 @@
     margin: auto;
     margin-top: 10px;
     padding: 10px;
-    font-size: 2cqmax;
+    font-size: 1.8cqmax;
+    font-family: "Open Sans", sans-serif;
     
 }
 
@@ -23,7 +24,8 @@
     margin-top: 10px;
     padding: 10px;
     border-radius: 15px;
-    font-size: 2cqmax;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.8cqmax;
     display: none;
 }
 
