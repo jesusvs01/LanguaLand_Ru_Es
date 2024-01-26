@@ -7,23 +7,23 @@
     border: solid 5px black;
     text-align: center;
     border-radius: 15px;
-    width: 80%;
+    width: 90%;
     margin: auto;
     margin-top: 10px;
     padding: 10px;
-    font-size: 1.5cqmax;
+    font-size: 2cqmax;
     
 }
 
 .definicion{
     border: solid 5px black;
     text-align: center;
-    width: 80%;
+    width: 90%;
     margin: auto;
     margin-top: 10px;
     padding: 10px;
     border-radius: 15px;
-    font-size: 1.5cqmax;
+    font-size: 2cqmax;
     display: none;
 }
 
