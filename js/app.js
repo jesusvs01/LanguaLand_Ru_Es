@@ -27,7 +27,7 @@ words = {
     "Voy a intentar aprender a tocar la guitarra": "Я буду попытаться научиться игре на гитаре",
     "Esperamos mucho, y finalmente él llegó.": "Мы долго ждали, и, нако́нец, он пришёл.",
     "Ella dio otro paso hacia adelante.": "Она сдела́ла ещё оди́н шаг вперёд.",
-    "Escapar, Huir": "убежать",
+    "Él decidió escapar de los problemas y pasar el fin de semana en la naturaleza.": "Он реши́л убежа́ть от пробле́м и провести́ выходны́е в приро́де.",
     "Él estaba molesto después del examen.": "Он был в зо́ле после экза́мена.",
     "Él contó un mensaje importante.": "Он рассказа́л важно́е соо́бщение"
 }
