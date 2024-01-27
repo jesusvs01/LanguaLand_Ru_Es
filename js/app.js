@@ -29,7 +29,20 @@ words = {
     "Ella dio otro paso hacia adelante.": "Она сдела́ла ещё оди́н шаг вперёд.",
     "Él decidió escapar de los problemas y pasar el fin de semana en la naturaleza.": "Он реши́л убежа́ть от пробле́м и провести́ выходны́е в приро́де.",
     "Él estaba molesto después del examen.": "Он был в зо́ле после экза́мена.",
-    "Él contó un mensaje importante.": "Он рассказа́л важно́е соо́бщение"
+    "Él contó un mensaje importante.": "Он рассказа́л важно́е соо́бщение",
+    "Él traerá un libro para leer.":"Он принесёт книгу, чтобы почитать.",
+    "Él se acerca a la ventana para mirar la calle.":"Он подходит к окну, чтобы посмотреть на улицу.",
+    "Hoy hace mucho frío.":"Сего́дня очень холо́дно.",
+    "Hubo niebla por la mañana.":"У́тром был тума́н.",
+    "Él la agarraba fuertemente de la mano.":"Он кре́пко держа́л её за руку́.",
+    "Él tiraba de la manija, intentando abrir la cerradura.": "Он дёргал рукоя́тку, пыта́ясь открыва́ть замо́к.",
+    "Ella encogía los hombros, sin saber qué decir.": "Она пожимала плечами, не зная, что сказать.",
+    "Ella temblaba de frío, a pesar de llevar ropa abrigada":"Она дрожа́ла от хо́лода, несмотря́ на те́плую оде́жду.",
+    "Golpeaba la puerta con fuerza porque había olvidado la llave.":"Он би́л в дверь с си́лой, потому что забы́л ключ.",
+    "El lobo comenzó a aullar bajo la luz de la luna.":"Во́лк нача́л выть под лу́нным све́том.",
+    "Él robó mi billetera en el metro.": "Он украл мой кошеле́к в метро́.",
+    "Él sale del autobús después de un largo viaje.": "Он выле́зает из авто́буса после долго́го путеше́ствия.",
+    "Al niño pequeño le gusta subir al sofá.":"Маленький ребёнок лю́бит лезть на дива́н."
 }
 
 data = Object.entries(words)
