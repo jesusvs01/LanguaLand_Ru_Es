@@ -59,8 +59,8 @@ data = Object.entries(words)
 
 function getRandomTerm(){
     randomTerm = data[Math.floor(Math.random() * data.length)]
-    termino.innerHTML = `${randomTerm[1]}`;
-    definicion.innerHTML = `${randomTerm[0]}`;
+    termino.innerHTML = `${randomTerm[0]}`;
+    definicion.innerHTML = `${randomTerm[1]}`;
 }
 
 revisarBoton.addEventListener('click', function(){
