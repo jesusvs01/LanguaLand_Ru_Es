@@ -52,7 +52,7 @@ words = {
     "En la mesa había un frasco con caviar negro.":"На сто́ле стоя́ла ба́нка с чёрной икро́й.",
     "Ayer hicimos un guiso de carne delicioso.":"Мы гото́вили вчера́ вку́сное мя́сное жарко́е.",
     "Ella prepara masa para deliciosas galletas.":"Она гото́вит те́сто для вку́сных пече́нь.",
-    " Ella corta cuidadosamente las frutas en la cocina.":"Она осторо́жно ре́жет фрукты на кухне́."
+    "Ella corta cuidadosamente las frutas en la cocina.":"Она осторо́жно ре́жет фрукты на кухне́."
 }
 
 data = Object.entries(words)
