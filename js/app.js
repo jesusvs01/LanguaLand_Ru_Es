@@ -42,7 +42,17 @@ words = {
     "El lobo comenzó a aullar bajo la luz de la luna.":"Во́лк нача́л выть под лу́нным све́том.",
     "Él robó mi billetera en el metro.": "Он украл мой кошеле́к в метро́.",
     "Él sale del autobús después de un largo viaje.": "Он выле́зает из авто́буса после долго́го путеше́ствия.",
-    "Al niño pequeño le gusta subir al sofá.":"Маленький ребёнок лю́бит лезть на дива́н."
+    "Al niño pequeño le gusta subir al sofá.":"Маленький ребёнок лю́бит лезть на дива́н.",
+    "Él tiene los hombros muy anchos.":"У него́ очень ши́рокие плечи́.",
+    "La puerta en la habitación es muy estrecha":"Дверь в комна́те очень у́зкая.",
+    "El bebé comenzó a llorar después de perder su juguete.":"Младенец начал пла́кать после того́, как потеря́л игру́шку.",
+    "Una persona sorda utiliza el lenguaje de señas para comunicarse":"Глухо́й челове́к использу́ет же́стовый язы́к для обще́ния.",
+    "Perdió el autobús debido a la tardanza.":"Он пропусти́л авто́бус из-за опозда́ния.",
+    "En verano nos gusta bañarnos en el mar.":"Лето́м мы лю́бим купа́ться в мо́ре.",
+    "En la mesa había un frasco con caviar negro.":"На сто́ле стоя́ла ба́нка с чёрной икро́й.",
+    "Ayer hicimos un guiso de carne delicioso.":"Мы гото́вили вчера́ вку́сное мя́сное жарко́е.",
+    "Ella prepara masa para deliciosas galletas.":"Она гото́вит те́сто для вку́сных пече́нь.",
+    " Ella corta cuidadosamente las frutas en la cocina.":"Она осторо́жно ре́жет фрукты на кухне́."
 }
 
 data = Object.entries(words)
